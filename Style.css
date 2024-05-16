@@ -1,0 +1,15 @@
+.imagen {
+    width: 300;
+    height: 300;
+    margin: 0;
+}
+
+.contenedor {
+    display:flex;
+    justify-content: center;
+}
+
+.contenedor1 {
+    display:flex;
+    justify-content: center;
+}
